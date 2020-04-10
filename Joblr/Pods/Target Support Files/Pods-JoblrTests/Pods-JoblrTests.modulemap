@@ -1,0 +1,6 @@
+framework module Pods_JoblrTests {
+  umbrella header "Pods-JoblrTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
